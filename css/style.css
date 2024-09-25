@@ -1259,3 +1259,8 @@ p {
     right: 16px;
   }
 }
+
+.gallery{
+  display: none;
+}
+
